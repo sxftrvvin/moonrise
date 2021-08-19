@@ -5,19 +5,13 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+ravins is a server for chilling, enjoying, having fun and the fan club for [sxftrvvin](https://www.youtube.com/channel/UCxPEk-8nsWYwd4-cbo6F44g)
 
 
-# Terms of Use
+# Rules
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+You can view the rules at the rules channel, note that NOT all layouts are mine! they are got from a server called peekabo revamp.
 
+# Uploads
 
-# Privacy Policy
-
-This website does not collect any data, but third party integrations may collect data to provide a service.
-
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+See uploaded made by [sxftrvvin](https://www.youtube.com/channel/UCxPEk-8nsWYwd4-cbo6F44g) in the uploads channel.
