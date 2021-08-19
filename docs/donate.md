@@ -1,4 +1,1 @@
----
-layout: redirect
-tourl: https://ko-fi.com/
----
+Keep your money! :)
