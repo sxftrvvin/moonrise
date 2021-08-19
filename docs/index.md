@@ -16,3 +16,5 @@ cellLinks:
     curl: donate
     cimage: media/demo04.jpg
 ---
+
+Welcome To Ravins! I am Jamie, known as sxftrvvin, founder of the server!
