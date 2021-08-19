@@ -3,8 +3,7 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
-
+# ravins
 ravins is a server for chilling, enjoying, having fun and the fan club for [sxftrvvin](https://www.youtube.com/channel/UCxPEk-8nsWYwd4-cbo6F44g)
 
 
